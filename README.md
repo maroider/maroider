@@ -1,5 +1,9 @@
 I have somehow found myself working on Winit entirely without meaning to.
 
+### Website
+
+I have a shitty website with nothing of interest on it: <https://maroider.net>
+
 ### Other accounts
 
 You can usually find me on other services as @maroider.
